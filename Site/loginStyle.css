@@ -1,0 +1,30 @@
+main {
+   
+    margin: auto;
+      width: 50%;
+      padding: 10px;
+      padding-top: 10%;
+    
+    }
+    h2{
+    background-color: #468176;
+    border-style: solid;
+    width: 50%;
+    
+    }
+    
+    form{
+    border-style: solid;
+    border-radius: 15px;
+    padding: 10px;
+    }
+    
+    #submit{
+        background-color: rgb(62, 238, 62);
+        border-radius: 50%;
+    
+    }
+    #reset{
+        background-color: rgb(242, 82, 82);
+        border-radius: 50%;
+    }

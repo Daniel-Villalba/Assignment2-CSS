@@ -1,0 +1,31 @@
+main {
+   
+        margin: auto;
+        width: 70%;
+        padding: 10px;
+        padding-top: 10%;
+        float:left;
+       
+    }
+
+    article{
+ 
+        width: 30%;
+ 
+    }
+    main article{
+        display: inline;
+        float: left;
+    }
+    img{
+        width: auto;
+        width: 50%;
+    }
+ aside{
+ 
+        width: 25%;
+        position: relative;
+        float: right;
+        margin-top: 10%
+        
+    }
